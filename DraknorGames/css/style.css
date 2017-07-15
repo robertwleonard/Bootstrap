@@ -1,0 +1,130 @@
+body {
+	background: #fff;
+}
+
+h3 {
+	color: #34512E;
+	margin: 0;
+	padding-bottom: 15px;
+}
+
+h4 {
+	color: #34512E;
+}
+
+.btn-primary {
+	background: #313461;
+	border-color: #313461;
+}
+
+.jumbotron {
+	background: #333 url('../img/WTFH_header.jpg') 0 -30px;
+	background-repeat: no-repeat;
+	color: #fff;
+	text-align: center;
+	border-bottom: 5px #A6ACAF solid;
+}
+
+.jumbotron-main {
+	padding: 0 0 40px 0;
+}
+
+.jumbotron-main h1 {
+	margin-top: 20px;
+	margin-bottom: 15px;
+}
+
+.jumbotron p.lead {
+	font-size: 25px;
+	margin-bottom: 30px;
+}
+
+.jumbotron-sub {
+	padding: 0 0 40px 0;
+}
+
+.navbar {
+	margin: 0;
+	color: #fff;
+	background-color: rgba(0,0,0,0.55);
+	border: none;
+}
+
+.navbar-brand-padding {
+	margin-left: 10px;
+}
+
+/* Title */
+.navbar-default .navbar-brand {
+    color: #ddd;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #eee;
+}
+
+/* Link */
+.navbar-default .navbar-nav > li > a {
+    color: #ddd;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #fff;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+    color: #fff;
+    background-color: rgba(77,77,77,0.70);
+}
+
+.box {
+	text-align: center;
+}
+
+.box .glyphicon {
+	font-size: 50px;
+}
+
+.img-padded {
+	padding: 10px;
+}
+
+.section-a {
+	background: #34512E;
+	color: #fff;
+	text-align: center;
+	padding: 30px 30px 10px 30px;
+}
+
+.section-a h1 {
+	font-size: 50px;
+}
+
+p.title {
+	text-align: left;
+	font-weight: bold;
+}
+
+div.well-section a {
+	text-decoration: none;
+	color: #000;
+}
+
+div.well-section a:hover {
+	color: #34512E;
+}
+
+.img-full {
+	width: 100%;
+}
+
+.main-footer {
+	background: #f5f5f5;
+	padding: 5px 0;
+}
+
+.main-footer a {
+	color: #34512E;
+}
