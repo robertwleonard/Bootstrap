@@ -24,8 +24,9 @@ h4 {
 }
 
 .jumbotron {
-	background: #333 url('../img/WTFH_header.jpg') 0 -30px;
-	background-repeat: no-repeat;
+	background: #333 url('../img/WTFH_header.jpg');
+  height: 500px;
+	background-size: cover;
 	color: #fff;
 	text-align: center;
 	border-bottom: 5px #A6ACAF solid;
